@@ -1,5 +1,5 @@
-# git clone https://github.com/zhangfaen/llama3-from-scratch
-# cd llama3-from-scratch
+# git clone https://github.com/zhangfaen/load_run_llama3_model_from_scratch
+# cd load_run_llama3_model_from_scratch
 # pip install torch pdbpp
 # huggingface-cli download zhangfaen/Meta-Llama-3-8B_checkpoint  --local-dir Meta-Llama-3-8B/
 # enjoy!
